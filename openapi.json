@@ -7,7 +7,7 @@
   },
   "servers": [
     {
-      "url": "https://hitup.fun",
+      "url": "https://up-grok-backend.onrender.com",
       "description": "Production API"
     },
     {
